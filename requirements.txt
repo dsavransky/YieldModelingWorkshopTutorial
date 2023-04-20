@@ -1,4 +1,4 @@
 jupyterlab
 matplotlib
 ipympl
--e git+https://github.com/dsavransky/EXOSIMS@master
+-e git+https://github.com/dsavransky/EXOSIMS@master#egg=EXOSIMS
