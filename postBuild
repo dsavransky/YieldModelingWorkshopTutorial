@@ -1,0 +1,6 @@
+#!/bin/bash
+
+mkdir ~/.EXOSIMS
+cp -a cache ~/.EXOSIMS/
+cp -a downloads ~/.EXOSIMS/
+
