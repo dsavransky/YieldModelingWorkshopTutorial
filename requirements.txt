@@ -1,0 +1,3 @@
+jupyterlab
+matplotlib
+EXOSIMS>=3.3.1
