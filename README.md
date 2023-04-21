@@ -1,6 +1,6 @@
 # Yield Modeling Workshop 2023 Tutorials
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dsavransky/YieldModelingWorkshopTutorial/HEAD?urlpath=lab/tree/Notebooks){:target="_blank"}
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dsavransky/YieldModelingWorkshopTutorial/HEAD?urlpath=lab/tree/Notebooks)
 
 ## Running the Tutorials
 
