@@ -42,11 +42,9 @@ If you are planning on using these tools more extensively, it is recommended tha
 
 If you are planning on doing your own development/modification of any of the tools used here, you may wish to create editable (developer) installs.  To do so, you should grab the repositories of the tools themselves.  In the case of `EXOSIMS`, this looks something like:
 
-    ```
     git clone https://github.com/dsavransky/EXOSIMS.git
     cd EXOSIMS
     pip install --user -e .
-    ```
 
 The `-e` flag installs the software in such a way that changes to the repository are automatically picked up the next time the relevant module is reloaded.  This is very convenient for development and testing. 
 
