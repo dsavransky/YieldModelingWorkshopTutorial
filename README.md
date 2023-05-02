@@ -4,9 +4,23 @@
 
 ## Running the Tutorials
 
-These tutorials can be run entirely via your browser, with no local installation required.  This is recommended for all beginners and anyone who wants to casually explore the code. Users wishing to install the code on their own computers should use one of the options below.
+These tutorials can be run entirely via your browser, with no local installation required.  This is recommended for all beginners and anyone who wants to casually explore the code. There are two ways to run the tutorials in the browser: using binder or using Google colab.  Details for launching using both services are provided below.
 
-### The Easy Way (No Local Installation) 
+Users who wish to run the tutorials locally on their own computers, or to develop new implementations for EXOSIMS should install the code locally (see instructions below).
+
+### Easy Way #1: Google Colab (No Local Installation) 
+
+For any of the notebooks in the `colab` subfolder, prepend the url https://colab.research.google.com/github/dsavransky/YieldModelingWorkshopTutorial/blob/main/colab/.  So, for the first tutorial, you would navigate to:
+
+https://colab.research.google.com/github/dsavransky/YieldModelingWorkshopTutorial/blob/main/colab/EXOSIMS_tutorial1_colab.ipynb
+
+If you are not logged in to a google-linked account, you will need to sign in (using the Sign In button at the top right of the screen). Afterwards, you will be able to execute the notebook by placing your cursor in a code cell and hitting Shift+Enter (or use the Run icon in each cell).  You can also execute all cells (or some subset of cells) via options in the `Runtime` menu.
+
+
+### Easy Way #2: binder (No Local Installation)
+
+>**Warning**
+>As of May, 2023 binder has suffered a reduction in capacity (see: https://blog.jupyter.org/mybinder-org-reducing-capacity-c93ccfc6413f), which leads to frequent failures. If binder fails to load, please try the Google colab version, described above.
 
 Click the 'launch binder' badge at the top of this readme and wait a few minutes (it may take a while).  Once JupyterLab launches, click on the file browser (top icon in the left-hand panel) and select a notebook (for example, `EXOSIMS_tutorial1.ipynb`).  In order to execute code cells, hit Shift+Enter (or use the Run icon in the toolbar).  You can also execute all cells (or some subset of cells) via options in the Run menu.
 
