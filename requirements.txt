@@ -1,4 +1,5 @@
 jupyterlab
 matplotlib
 ipympl
+seaborn
 EXOSIMS>=3.1.3

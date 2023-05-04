@@ -1,0 +1,1 @@
+./workshop_script.sh sims/H6C_CODulzE_baseA_IFSp7_20230412 sims/H8C_CODulzE_baseA_IFSp7_20230412 sims/H6C_CODulzE_baseO_20230315_dansDemo100
