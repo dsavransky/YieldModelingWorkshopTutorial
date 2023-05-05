@@ -10,9 +10,10 @@ Users who wish to run the tutorials locally on their own computers, or to develo
 
 ### Easy Way #1: Google Colab (No Local Installation) 
 
-For any of the notebooks in the `colab` subfolder, prepend the url https://colab.research.google.com/github/dsavransky/YieldModelingWorkshopTutorial/blob/main/colab/.  So, for the first tutorial, you would navigate to:
+For any of the notebooks in the `colab` subfolder, prepend the url https://colab.research.google.com/github/dsavransky/YieldModelingWorkshopTutorial/blob/main/colab/.  For the main EXOSIMS tutorials, navigate to:
 
-https://colab.research.google.com/github/dsavransky/YieldModelingWorkshopTutorial/blob/main/colab/EXOSIMS_tutorial1_colab.ipynb
+- https://colab.research.google.com/github/dsavransky/YieldModelingWorkshopTutorial/blob/main/colab/EXOSIMS_tutorial1_colab.ipynb
+- https://colab.research.google.com/github/dsavransky/YieldModelingWorkshopTutorial/blob/main/colab/EXOSIMS_tutorial2_colab.ipynb
 
 If you are not logged in to a google-linked account, you will need to sign in (using the Sign In button at the top right of the screen). Afterwards, you will be able to execute the notebook by placing your cursor in a code cell and hitting Shift+Enter (or use the Run icon in each cell).  You can also execute all cells (or some subset of cells) via options in the `Runtime` menu.
 
