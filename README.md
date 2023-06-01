@@ -1,10 +1,10 @@
 # Yield Modeling Workshop 2023 Tutorials
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dsavransky/YieldModelingWorkshopTutorial/HEAD?urlpath=lab/tree/Notebooks)
+This repository contains materials for the EXOSIMS tutorial presented at the 2023 Yield Modeling Tools Workshop at the 242nd AAS Meeting in Albuquerque, NM. Workshop information and other resources are available at: https://exoplanets.nasa.gov/exep/events/456/exoplanet-yield-modeling-tools-workshop/
 
 ## Running the Tutorials
 
-These tutorials can be run entirely via your browser, with no local installation required.  This is recommended for all beginners and anyone who wants to casually explore the code. There are two ways to run the tutorials in the browser: using binder or using Google colab.  Details for launching using both services are provided below.
+These tutorials can be run entirely via your browser, with no local installation required.  This is recommended for all beginners and anyone who wants to casually explore the code. There are two ways to run the tutorials in the browser: using binder or using Google colab.  Details for using both services are provided below.
 
 Users who wish to run the tutorials locally on their own computers, or to develop new implementations for EXOSIMS should install the code locally (see instructions below).
 
@@ -20,10 +20,12 @@ If you are not logged in to a google-linked account, you will need to sign in (u
 
 ### Easy Way #2: binder (No Local Installation)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dsavransky/YieldModelingWorkshopTutorial/HEAD?urlpath=lab/tree/Notebooks)
+
 >**Warning**
 >As of May, 2023 binder has suffered a reduction in capacity (see: https://blog.jupyter.org/mybinder-org-reducing-capacity-c93ccfc6413f), which leads to frequent failures. If binder fails to load, please try the Google colab version, described above.
 
-Click the 'launch binder' badge at the top of this readme and wait a few minutes (it may take a while).  Once JupyterLab launches, click on the file browser (top icon in the left-hand panel) and select a notebook (for example, `EXOSIMS_tutorial1.ipynb`).  In order to execute code cells, hit Shift+Enter (or use the Run icon in the toolbar).  You can also execute all cells (or some subset of cells) via options in the Run menu.
+Click the 'launch binder' badge, above, and wait a few minutes (it may take a while).  Once JupyterLab launches, click on the file browser (top icon in the left-hand panel) and select a notebook (for example, `EXOSIMS_tutorial1.ipynb`).  In order to execute code cells, hit Shift+Enter (or use the Run icon in the toolbar).  You can also execute all cells (or some subset of cells) via options in the Run menu.
 
 ### The Slightly Harder Way (Local Installation)
 
