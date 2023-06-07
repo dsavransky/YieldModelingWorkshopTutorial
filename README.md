@@ -17,6 +17,11 @@ For any of the notebooks in the `colab` subfolder, prepend the url https://colab
 
 If you are not logged in to a google-linked account, you will need to sign in (using the Sign In button at the top right of the screen). Afterwards, you will be able to execute the notebook by placing your cursor in a code cell and hitting Shift+Enter (or use the Run icon in each cell).  You can also execute all cells (or some subset of cells) via options in the `Runtime` menu.
 
+Additional materials can be accessed at:
+
+- https://colab.research.google.com/github/dsavransky/YieldModelingWorkshopTutorial/blob/main/colab/EXOSIMS_tutorial2_supplemental_colab.ipynb
+- https://colab.research.google.com/github/dsavransky/YieldModelingWorkshopTutorial/blob/main/colab/https://github.com/dsavransky/YieldModelingWorkshopTutorial/blob/main/colab/Completeness_figures_colab.ipynb
+
 
 ### Easy Way #2: binder (No Local Installation)
 
