@@ -46,11 +46,13 @@ If you are planning on using these tools more extensively, it is recommended tha
     
     This will install all of the python packages required by the tutorial notebooks.
  
-5. Navigate to the `Notebooks` subdirectory of the repository (this should just be `cd Notebooks` from where you were last) and then start JupyterLab by running `jupyter-lab`
+5. Execute the (OS-equivalent) commands in the `postBuild` file.  On macOS/Linux you should just be able to run `source postBuild`.  On Windows, you will need to create a directory called `.EXOSIMS` under your user's home directory, and then copy the `cache` and `downloads` folders into that directory.
 
-6. From this point, everything is the same as via the Easy Way.
+6. Navigate to the `Notebooks` subdirectory of the repository (this should just be `cd Notebooks` from where you were last) and then start JupyterLab by running `jupyter-lab`
 
-7. To stop JupyterLab, type `ctrl+c` in the terminal where it is running and then hit `ctrl+c` again (or type `y` at the prompt). To deactivate the virtual environment just type `deactivate` at the prompt.  Next time you want to run the tutorials again, you just activate the environment again, navigate to the Notebooks directory and run `jupyter-lab`
+7. From this point, everything is the same as via the Easy Way.
+
+8. To stop JupyterLab, type `ctrl+c` in the terminal where it is running and then hit `ctrl+c` again (or type `y` at the prompt). To deactivate the virtual environment just type `deactivate` at the prompt.  Next time you want to run the tutorials again, you just activate the environment again, navigate to the Notebooks directory and run `jupyter-lab`
 
 >**Warning**
 >There appears to be an issue (at least on macOS) where if you already have jupyter-lab installed in a system path, it will be executed initially instead of the one you install in your virtual environment.  A simple fix is to deactivate and re-activate the virtual environment after you run the initial pip installation (i.e., between steps 4 and 5).
