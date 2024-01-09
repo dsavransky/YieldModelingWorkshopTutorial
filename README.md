@@ -1,4 +1,4 @@
-# Yield Modeling Workshop 2023 Tutorials
+# Yield Modeling Workshop EXOSIMS Tutorials
 
 This repository contains materials for the EXOSIMS tutorial first presented at the 2023 Yield Modeling Tools Workshop at the 242nd AAS Meeting in Albuquerque, NM (and subsequently at the 243rd AAS Meeting in New Orleans, LA). Workshop information and other resources are available at: https://exoplanets.nasa.gov/exep/events/456/exoplanet-yield-modeling-tools-workshop/ and https://exoplanets.nasa.gov/exep/events/490/exoplanet-yield-modeling-tools-workshop-remix/
 
